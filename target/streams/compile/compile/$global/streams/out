@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/home/framgia/workspace/scala-learning/src/main/scala/Inheritance.scala:13:29: overriding variable xc in class Point of type Int;[0m
+[0m[[0m[31merror[0m] [0m[0m variable xc cannot override a mutable variable[0m
+[0m[[0m[31merror[0m] [0m[0mclass Location(override var xc: Int, override var yc: Int,[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/framgia/workspace/scala-learning/src/main/scala/Inheritance.scala:13:51: overriding variable yc in class Point of type Int;[0m
+[0m[[0m[31merror[0m] [0m[0m variable yc cannot override a mutable variable[0m
+[0m[[0m[31merror[0m] [0m[0mclass Location(override var xc: Int, override var yc: Int,[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

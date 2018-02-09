@@ -1,0 +1,4 @@
+run
+runMain
+run
+printnl("Hello World")
